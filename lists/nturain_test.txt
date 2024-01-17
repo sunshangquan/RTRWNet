@@ -1,0 +1,16 @@
+a1_Rain
+a1_GT
+a2_Rain
+a2_GT
+a3_Rain
+a3_GT
+a4_Rain
+a4_GT
+b1_Rain
+b1_GT
+b2_Rain
+b2_GT
+b3_Rain
+b3_GT
+b4_Rain
+b4_GT
